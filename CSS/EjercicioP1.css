@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+    font-size: 200%;
+}
+
+p {
+    color: pink;
+    font-size: 100%;
+}
+
+
+#ultimo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#primer{
+    font-family: 'Courier New', Courier, monospace;
+}

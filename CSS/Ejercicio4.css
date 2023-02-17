@@ -1,0 +1,13 @@
+.rojo {
+    color: red;
+}
+
+.subrayado {
+    text-decoration: underline;
+}
+
+#primera_seccion {
+    color: red;
+    background-color: yellow;
+    width: 200px;
+}
