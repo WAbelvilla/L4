@@ -1,0 +1,31 @@
+body {background-color: rgb(17, 16, 16);}
+
+.titulo {
+    text-align: center;
+    font-size: 20px;
+}
+
+.contenedor {
+    width: 600px;
+    height: 400px;
+    border: rgb(249, 245, 245) 1px dashed;
+    margin: 0px auto;
+}
+.caja1 {
+    background-color: #88bcff;
+    width: 600px;
+    height: 100px;
+    float: left;
+}
+.caja2 {
+    background-color: #3ae1ff;
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.caja3 {
+    background-color: #93798f;
+    width: 300px;
+    height: 300px;
+    float: left;
+}
